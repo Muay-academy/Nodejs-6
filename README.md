@@ -21,3 +21,8 @@ Check version  **node -v**
   - npm init   >> File package.json
   - npm install express -save  >> File package-lock.json
   - touch <main.js/>
+
+
+## Run Nodjs
+
+node main.js
